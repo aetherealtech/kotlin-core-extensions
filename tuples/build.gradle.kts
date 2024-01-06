@@ -52,7 +52,7 @@ publishing {
             pom {
                 packaging = "jar"
                 name.set("tuples")
-                description.set("")
+                description.set("Tuples")
                 url.set("github.com/aetherealtech/kotlin-core-extensions/tuples")
                 licenses {
                     license {
