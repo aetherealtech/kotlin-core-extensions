@@ -1,4 +1,4 @@
-package com.aetherealtech.tuples
+package aetherealtech.tuples
 
 data class Quadruple<out T1, out T2, out T3, out T4>(
     val first: T1,

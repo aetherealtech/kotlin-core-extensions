@@ -1,4 +1,4 @@
-package com.aetherealtech.tuples
+package aetherealtech.tuples
 
 data class Octuple<out T1, out T2, out T3, out T4, out T5, out T6, out T7, out T8>(
     val first: T1,
